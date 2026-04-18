@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains Java projects developed during my **CodSoft Internship**.  
-The projects cover **Object-Oriented Programming (OOP), file handling, user input, and basic algorithms**.  
+The projects cover **Object-Oriented Programming (OOP),user input, and basic algorithms**.  
 These tasks were part of my internship to strengthen **Java programming skills and practical implementation**.
 
 ## Internship Tasks
