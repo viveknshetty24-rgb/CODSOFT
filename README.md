@@ -29,6 +29,8 @@ Calculate the **total marks, average percentage, and corresponding grade**.
 - Assign grades based on percentage
 - Display final result with total, percentage, and grade
 
+---
+
   ### Task 3: ATM Interface
 Create a class to represent the ATM machine and a class for the user's bank account.
 Implement functional options for **withdrawing, depositing, and checking the balance**.
