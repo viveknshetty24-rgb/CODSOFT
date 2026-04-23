@@ -4,7 +4,7 @@ class BankAccount {
      public BankAccount(double initialBalance) {
           this.balance = initialBalance;
      }
-     public double getBalance() {
+     public double checkBalance() {
           return balance;
      }
      public void deposit(double amount) {
@@ -27,8 +27,8 @@ class BankAccount {
      }
 }
 class ATM {
-     BankAccount account;
-     Scanner sc;
+     private BankAccount account;
+     private Scanner sc;
      public ATM(BankAccount account) {
           this.account = account;
           sc = new Scanner(System.in);
@@ -45,7 +45,7 @@ class ATM {
                choice = sc.nextInt();
                switch (choice) {
                     case 1:
-                         System.out.println("Balance: " + account.getBalance());
+                         System.out.println("Balance: " + account.checkBalance());
                          break;
                     case 2:
                          System.out.print("Enter deposit amount: ");
