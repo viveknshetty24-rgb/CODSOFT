@@ -9,7 +9,7 @@ These tasks were part of my internship to strengthen **Java programming skills a
 
 ## Internship Tasks
 
-### Task 1: Number Game
+`### Task 1: Number Game`
 Generate a random number within a specified range (e.g., 1 to 100).  
 Prompt the user to guess the number and provide feedback: **too high, too low, or correct**.  
 
@@ -20,7 +20,7 @@ Prompt the user to guess the number and provide feedback: **too high, too low, o
 
 ---
 
-### Task 2: Student Grade Calculator
+`### Task 2: Student Grade Calculator`
 Take marks obtained (out of 100) in each subject.  
 Calculate the **total marks, average percentage, and corresponding grade**.  
 
@@ -33,7 +33,7 @@ Calculate the **total marks, average percentage, and corresponding grade**.
 
 ---
 
-  ### Task 3: ATM Interface
+  `### Task 3: ATM Interface`
 Create a class to represent the ATM machine and a class for the user's bank account.
 Implement functional options for **withdrawing, depositing, and checking the balance**.
 
